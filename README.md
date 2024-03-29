@@ -2,8 +2,7 @@
 
 https://dpc-analysis-2022.streamlit.app/
 
-![demo](./dpc-analysis-2021-demo.gif)
-
+![demo](./dpc-analysis-2022-demo.gif)
 ## データの前処理
 
 https://github.com/akira1744/dpc-analysis-preprocessing-2022
