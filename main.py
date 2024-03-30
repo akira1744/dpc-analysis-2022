@@ -19,7 +19,7 @@ alt.data_transformers.enable("custom")
 region_list, mdcname_list, mdc6name_list = myfunc.get_mst()
 
 # sidebar
-st.sidebar.markdown("## 2022年度DPC調査")
+st.sidebar.markdown("## 2022年度DPC退院患者調査")
 st.sidebar.markdown("### ")
 
 # regionのセレクトボックス
