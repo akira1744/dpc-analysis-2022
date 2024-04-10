@@ -50,7 +50,6 @@ else:
     charts = myfunc.draw_chart(select_hpname, mdc2d, mdc6d, oped)
     st.altair_chart(charts)
 
-
 # フッター　###################################################################################
 link1 = "https://www.mhlw.go.jp/stf/shingi2/newpage_39119.html"
 link2 = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000198757_00004.html"
